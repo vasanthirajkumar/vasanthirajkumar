@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+## Vasanthi Rajkumar here
+
+### This is my quick repository of my portfolio projects
 
 <!--
 **vasanthirajkumar/vasanthirajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
